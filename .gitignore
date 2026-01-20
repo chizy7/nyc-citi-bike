@@ -9,6 +9,3 @@ Manifest.toml
 
 # Environment / OS
 .DS_Store
-
-# Outputs
-*.png
