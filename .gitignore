@@ -1,0 +1,14 @@
+# Julia
+*.jl.cov
+*.jl.mem
+*.jl.prof
+Manifest.toml
+
+# VS Code
+.vscode/
+
+# Environment / OS
+.DS_Store
+
+# Outputs
+*.png
